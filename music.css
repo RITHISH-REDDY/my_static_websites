@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-cont {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+    font-family: "bree serif";
+}
+
+.toptextt {
+    text-align: center;
+    color: #ffffff;
+    margin: 10px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sleep-head {
+    font-size: 25px;
+}
+
+.para-1 {
+    font-size: 13px;
+}
+
+.bottt {
+    margin: 30px;
+    text-align: center;
+}
+
+.img-cont {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 30vh;
+    border-radius: 10px;
+    color: #ffe7bf;
+}
+
+.para-2 {
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.getbutton {
+    text-align: center;
+    border-radius: 10px;
+    font-size: 15px;
+    height: 30px;
+    width: 110px;
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-width: 0px;
+}
+
+.bg-cont2 {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.imgg-2 {
+    width: 100vw;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.botsec {
+    margin: 15px;
+    font-family: "bree serif";
+}
+
+.ni-head {
+    color: #fff;
+    font-size: 30px;
+}
+
+.para-22 {
+    color: #98a1bd;
+}
+
+.headd-2 {
+    color: #fff;
+    font-size: 20px;
+}
+
+.cardss {
+    margin: 5px;
+}
+
+.img-22 {
+    height: 100px;
+    width: 150px;
+}
+
+.sm-head {
+    margin-top: 3px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.sm-para {
+    color: #98a1bd;
+    font-size: 15px;
+}
