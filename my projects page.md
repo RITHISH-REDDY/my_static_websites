@@ -1,4 +1,4 @@
-This is the sample static website that i had created:
+This is the sample static website that i have created fro mobile view only:
 
 ---------------------  https://myprospage1.ccbp.tech/   ------------------
 
